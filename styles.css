@@ -1,0 +1,14 @@
+div :hover
+{
+    color:lightblue;
+}
+
+.focus-yellow 
+{
+    background-color: greenyellow;
+    width: 150px;
+}
+#name
+{
+    color: blueviolet;
+}
